@@ -16,4 +16,3 @@ back into itself for some intense filter overdrive! A 2nd glide circuit is added
 Glide potentiometer is removed and replaced with a dual gang potentiometer. This way one knob can control both the Werkstatt 
 glide and the external pitch glide. The VCO Wave selector switch is removed and a mixer circuit is added so the 2 waveforms 
 can be continuously blended from one to the other. Lastly, there is a Fine Tune knob added.
-
